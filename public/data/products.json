@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title": "Premium Wireless Headphones",
+        "price": 299.99,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+        "shortDescription": "High-quality wireless headphones with noise cancellation",
+        "fullDescription": "Experience premium sound quality with our wireless headphones featuring active noise cancellation, 30-hour battery life, and comfortable over-ear design. Perfect for music lovers and professionals alike.",
+        "features": [
+            "Active Noise Cancellation Technology",
+            "30-hour battery life with quick charge",
+            "Premium over-ear comfort design",
+            "Bluetooth 5.0 connectivity",
+            "Built-in microphone for calls",
+            "Foldable design for portability"
+        ],
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "title": "Smart Watch Pro",
+        "price": 399.99,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+        "shortDescription": "Advanced fitness tracking and notifications",
+        "fullDescription": "Stay connected and track your fitness goals with our Smart Watch Pro. Features include heart rate monitoring, GPS tracking, water resistance, and seamless smartphone integration.",
+        "features": [
+            "Heart rate & sleep monitoring",
+            "Built-in GPS tracking",
+            "Water resistant up to 50m",
+            "7-day battery life",
+            "Smart notifications & calls",
+            "Multiple workout modes"
+        ],
+        "category": "Wearables"
+    },
+    {
+        "id": 3,
+        "title": "Minimalist Backpack",
+        "price": 89.99,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop",
+        "shortDescription": "Sleek design with laptop compartment",
+        "fullDescription": "A perfect blend of style and functionality. This minimalist backpack features a padded laptop compartment, water-resistant material, and ergonomic straps for all-day comfort.",
+        "features": [
+            "Padded 15-inch laptop compartment",
+            "Water-resistant canvas material",
+            "Ergonomic padded straps",
+            "Multiple internal pockets",
+            "YKK zippers for durability",
+            "Minimalist aesthetic design"
+        ],
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "title": "Portable Bluetooth Speaker",
+        "price": 149.99,
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+        "shortDescription": "360° sound with deep bass",
+        "fullDescription": "Take your music anywhere with this portable Bluetooth speaker. Featuring 360° sound, 20-hour battery life, waterproof design, and powerful bass for outdoor adventures.",
+        "features": [
+            "360° surround sound technology",
+            "20-hour battery life",
+            "IPX7 waterproof rating",
+            "Deep bass enhancement",
+            "Bluetooth 5.0 connectivity",
+            "Compact & portable design"
+        ],
+        "category": "Electronics"
+    },
+    {
+        "id": 5,
+        "title": "Designer Sunglasses",
+        "price": 199.99,
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&h=500&fit=crop",
+        "shortDescription": "UV protection with polarized lenses",
+        "fullDescription": "Protect your eyes in style with these designer sunglasses. Features include 100% UV protection, polarized lenses to reduce glare, and a lightweight titanium frame.",
+        "category": "Accessories"
+    },
+    {
+        "id": 6,
+        "title": "Mechanical Keyboard",
+        "price": 159.99,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&h=500&fit=crop",
+        "shortDescription": "RGB backlit with tactile switches",
+        "fullDescription": "Elevate your typing experience with this mechanical keyboard. Features customizable RGB backlighting, tactile switches, programmable keys, and durable construction.",
+        "category": "Electronics"
+    },
+    {
+        "id": 7,
+        "title": "Leather Wallet",
+        "price": 79.99,
+        "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&h=500&fit=crop",
+        "shortDescription": "Genuine leather with RFID protection",
+        "fullDescription": "Crafted from premium genuine leather, this wallet combines classic style with modern security. Features RFID blocking technology, multiple card slots, and a slim profile.",
+        "category": "Accessories"
+    },
+    {
+        "id": 8,
+        "title": "Wireless Mouse",
+        "price": 49.99,
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+        "shortDescription": "Ergonomic design with precision tracking",
+        "fullDescription": "Work comfortably with this ergonomic wireless mouse. Features include precision optical tracking, programmable buttons, long battery life, and a comfortable grip for extended use.",
+        "category": "Electronics"
+    }
+]
